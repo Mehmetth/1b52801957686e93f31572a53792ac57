@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SpaceDelivery</string>
+
+    <string name="station">İstasyon</string>
+    <string name="favorites">Favoriler</string>
+
+    <string name="pointsDistributed">Dağıtılacak Puan : </string>
+    <string name="enterSpaceName">Lütfen uzay aracınızın adını giriniz..</string>
+    <string name="enterDurability">Dayanıklılık</string>
+    <string name="enterSpeed">Hız</string>
+    <string name="enterCapasity">Kapasite</string>
+    <string name="continueButton">Devam Et</string>
+
+
+    <string name="mustValueMinOne">Değerler en az 1 olmalı..</string>
+    <string name="mustSpaceNameEnterValue">Lütfen uzay aracı ismini giriniz..</string>
+    <string name="mustUseUnitsValue">15 birimi değerlere dağıtmanız gerekmektedir..</string>
+
+    <string name="spaceCraftDamage">Uzay geminiz hasar aldı. Dünya\'ya geri yönlendiriliyorsunuz..</string>
+    <string name="enoughEUS">Yeterli EUS\'niz kalmamıştır. Dünya\'ya geri yönlendiriliyorsunuz..</string>
+    <string name="enoughUGS">Yeterli UGS\'niz kalmamıştır. Dünya\'ya geri yönlendiriliyorsunuz..</string>
+    <string name="missionCompleted">Görev başarılı bir şekilde tamamlanmıştır. TEBRİKLER!..</string>
+
+</resources>
